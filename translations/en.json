@@ -1,13 +1,13 @@
 {
-	"LOADING": "Loading &hellip;",
+	"LOADING": "Đang tải &hellip;",
 
-	"TODAY": "Today",
-	"TOMORROW": "Tomorrow",
-	"DAYAFTERTOMORROW": "In 2 days",
-	"RUNNING": "Ends in",
-	"EMPTY": "No upcoming events.",
+	"TODAY": "Hôm nay",
+	"TOMORROW": "Ngày mai",
+	"DAYAFTERTOMORROW": "Ngày mốt",
+	"RUNNING": "Kết thúc trong",
+	"EMPTY": "Không có sự kiện sắp tới.",
 
-	"WEEK": "Week {weekNumber}",
+	"WEEK": "Tuần {weekNumber}",
 
 	"N": "N",
 	"NNE": "NNE",
@@ -26,11 +26,11 @@
 	"NW": "NW",
 	"NNW": "NNW",
 
-	"UPDATE_NOTIFICATION": "MagicMirror² update available.",
-	"UPDATE_NOTIFICATION_MODULE": "Update available for {MODULE_NAME} module.",
-	"UPDATE_INFO_SINGLE": "The current installation is {COMMIT_COUNT} commit behind on the {BRANCH_NAME} branch.",
-	"UPDATE_INFO_MULTIPLE": "The current installation is {COMMIT_COUNT} commits behind on the {BRANCH_NAME} branch.",
+	"UPDATE_NOTIFICATION": "MagicMirror² có bản cập nhật mới.",
+	"UPDATE_NOTIFICATION_MODULE": "Có bản cập nhật mới cho module {MODULE_NAME}.",
+	"UPDATE_INFO_SINGLE": "Cài dặt hiện tại là {COMMIT_COUNT}, được gửi đến bên dưới nhánh {BRANCH_NAME}.",
+	"UPDATE_INFO_MULTIPLE": "Cài dặt hiện tại là {COMMIT_COUNT}, được gửi đến bên dưới nhánh {BRANCH_NAME}.",
 	
-	"FEELS": "Feels like",
+	"FEELS": "Cảm thấy như",
 	"PRECIP": "PoP"
 }
